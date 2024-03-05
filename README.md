@@ -8,6 +8,7 @@ https://u-labs.de/portal/neue-festplatte-partitionieren-und-formatieren-unter-ub
 ```
 https://registry.terraform.io/providers/terraform-provider-openstack/openstack/latest/docs
 https://github.com/terraform-provider-openstack
+https://github.com/selectel/terraform-provider-selectel/blob/master/examples/project-with-floating-ips/main.tf
 ```
 
 ## C

@@ -11,8 +11,8 @@ https://github.com/terraform-provider-openstack
 https://github.com/selectel/terraform-provider-selectel/blob/master/examples/project-with-floating-ips/main.tf
 https://opensource.com/article/23/1/terraform-manage-openstack-cluster
 https://developer.hashicorp.com/terraform/tutorials/cli
+https://nws.netways.de/blog/2023/06/16/using-terraform-with-openstack/
 ```
-
 ## C
 ```
 https://github.com/auspbro/ebook-c/blob/master/The.C.Programming.Language.2Nd.Ed%20Prentice.Hall.Brian.W.Kernighan.and.Dennis.M.Ritchie..pdf

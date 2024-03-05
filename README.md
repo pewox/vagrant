@@ -4,6 +4,12 @@ https://app.vagrantup.com/bento
 https://docs.ansible.com/ansible/2.7/user_guide/playbooks_environment.html
 https://u-labs.de/portal/neue-festplatte-partitionieren-und-formatieren-unter-ubuntu-server/
 ```
+## OpenTofu
+```
+https://registry.terraform.io/providers/terraform-provider-openstack/openstack/latest/docs
+https://github.com/terraform-provider-openstack
+```
+
 ## C
 ```
 https://github.com/auspbro/ebook-c/blob/master/The.C.Programming.Language.2Nd.Ed%20Prentice.Hall.Brian.W.Kernighan.and.Dennis.M.Ritchie..pdf

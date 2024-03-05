@@ -11,6 +11,7 @@ https://registry.terraform.io/providers/terraform-provider-openstack/openstack/l
 https://registry.terraform.io/providers/hashicorp/null/latest/docs/resources/resource
 https://github.com/terraform-provider-openstack
 https://github.com/selectel/terraform-provider-selectel/blob/master/examples/project-with-floating-ips/main.tf
+https://github.com/hashicorp
 https://opensource.com/article/23/1/terraform-manage-openstack-cluster
 https://developer.hashicorp.com/terraform/tutorials/cli
 https://nws.netways.de/blog/2023/06/16/using-terraform-with-openstack/

@@ -11,6 +11,7 @@ https://registry.terraform.io/providers/terraform-provider-openstack/openstack/l
 https://registry.terraform.io/providers/terraform-provider-openstack/openstack/latest/docs
 https://registry.terraform.io/providers/terraform-provider-openstack/openstack/latest/docs/resources/compute_instance_v2.html
 https://registry.terraform.io/providers/hashicorp/null/latest/docs/resources/resource
+https://registry.terraform.io/providers/terraform-provider-openstack/openstack/latest/docs/resources/networking_floatingip_v2
 https://github.com/terraform-provider-openstack
 https://github.com/selectel/terraform-provider-selectel/blob/master/examples/project-with-floating-ips/main.tf
 https://github.com/hashicorp

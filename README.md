@@ -7,6 +7,7 @@ https://u-labs.de/portal/neue-festplatte-partitionieren-und-formatieren-unter-ub
 ## OpenTofu
 ```
 https://man.openbsd.org/ssh
+https://developer.hashicorp.com/terraform/language
 https://registry.terraform.io/providers/terraform-provider-openstack/openstack/latest/docs/resources/compute_keypair_v2
 https://registry.terraform.io/providers/terraform-provider-openstack/openstack/latest/docs
 https://registry.terraform.io/providers/terraform-provider-openstack/openstack/latest/docs/resources/compute_instance_v2.html

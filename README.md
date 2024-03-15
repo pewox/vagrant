@@ -7,6 +7,7 @@ https://u-labs.de/portal/neue-festplatte-partitionieren-und-formatieren-unter-ub
 ## Ansible
 ```
 https://docs.ansible.com/ansible/latest/collections/openstack/index.html
+https://docs.ansible.com/ansible/latest/collections/openstack/cloud/index.html#plugins-in-openstack-cloud
 https://docs.ansible.com/ansible/latest/collections/ansible/posix/authorized_key_module.html
 ```
 ## OpenTofu

@@ -13,6 +13,7 @@ https://github.com/ansible/product-demos/tree/main
 ```
 ## OpenTofu
 ```
+https://docs.openstack.org/os-client-config/latest/user/configuration.html
 https://terramate.io/docs/cli/code-generation/generate-hcl
 https://man.openbsd.org/ssh
 https://developer.hashicorp.com/terraform/language

@@ -1,4 +1,4 @@
-# Github
+## Github
 ```
 https://opentofu.org/docs/intro/core-workflow/
 ```

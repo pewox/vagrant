@@ -18,17 +18,14 @@ https://github.com/ansible/product-demos/tree/main
 ```
 ## OpenTofu
 ```
+https://github.com/terraform-provider-openstack/terraform-provider-openstack/tree/main
 https://docs.sc.otc.t-systems.com/virtual-private-cloud/api-ref/native_openstack_neutron_apis_v2.0/index.html
 https://docs.openstack.org/os-client-config/latest/user/configuration.html
 https://terramate.io/docs/cli/code-generation/generate-hcl
 https://man.openbsd.org/ssh
 https://developer.hashicorp.com/terraform/language
-https://registry.terraform.io/providers/terraform-provider-openstack/openstack/latest/docs/resources/compute_keypair_v2
 https://registry.terraform.io/providers/terraform-provider-openstack/openstack/latest/docs
-https://registry.terraform.io/providers/terraform-provider-openstack/openstack/latest/docs/resources/compute_instance_v2.html
 https://registry.terraform.io/providers/hashicorp/null/latest/docs/resources/resource
-https://registry.terraform.io/providers/terraform-provider-openstack/openstack/latest/docs/resources/networking_floatingip_v2
-https://registry.terraform.io/providers/terraform-provider-openstack/openstack/latest/docs/resources/compute_floatingip_associate_v2
 https://developer.hashicorp.com/terraform/language/resources/provisioners/connection
 https://github.com/terraform-provider-openstack
 https://github.com/selectel/terraform-provider-selectel/blob/master/examples/project-with-floating-ips/main.tf

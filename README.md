@@ -16,6 +16,12 @@ https://docs.ansible.com/ansible/latest/collections/openstack/cloud/index.html#p
 https://docs.ansible.com/ansible/latest/collections/ansible/posix/authorized_key_module.html
 https://github.com/ansible/product-demos/tree/main
 ```
+## Openstack
+```
+https://docs.openstack.org/2024.1/admin/
+https://docs.openstack.org/2024.1/api/
+https://docs.openstack.org/keystone/2024.1/admin/service-api-protection.html
+```
 ## OpenTofu
 ```
 https://github.com/terraform-provider-openstack/terraform-provider-openstack/tree/main

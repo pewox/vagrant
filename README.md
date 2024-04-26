@@ -26,6 +26,7 @@ https://docs.openstack.org/keystone/2024.1/admin/service-api-protection.html
 ```
 ## OpenTofu
 ```
+https://opentofu.org/docs/main/language/
 https://github.com/terraform-provider-openstack/terraform-provider-openstack/tree/main
 https://docs.sc.otc.t-systems.com/virtual-private-cloud/api-ref/native_openstack_neutron_apis_v2.0/index.html
 https://docs.openstack.org/os-client-config/latest/user/configuration.html

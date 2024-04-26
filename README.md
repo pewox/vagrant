@@ -20,6 +20,7 @@ https://github.com/ansible/product-demos/tree/main
 ```
 https://docs.openstack.org/2024.1/admin/
 https://docs.openstack.org/2024.1/api/
+https://docs.openstack.org/api-ref/
 https://docs.openstack.org/keystone/2024.1/admin/service-api-protection.html
 ```
 ## OpenTofu

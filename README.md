@@ -50,4 +50,4 @@ https://github.com/auspbro/ebook-c/blob/master/The.C.Programming.Language.2Nd.Ed
 http://seriouscomputerist.atariverse.com/media/pdf/book/C%20Programming%20Language%20-%202nd%20Edition%20(OCR).pdf
 http://cslabcms.nju.edu.cn/problem_solving/images/c/cc/The_C_Programming_Language_%282nd_Edition_Ritchie_Kernighan%29.pdf
 ```
-<img src="https://github.com/pewox/vagrant/blob/main/Screenshot%202025-02-16%20160017.png" alt="na">
+<img src="bilder/fritzbox02.jpg" alt="na">

@@ -50,3 +50,4 @@ https://github.com/auspbro/ebook-c/blob/master/The.C.Programming.Language.2Nd.Ed
 http://seriouscomputerist.atariverse.com/media/pdf/book/C%20Programming%20Language%20-%202nd%20Edition%20(OCR).pdf
 http://cslabcms.nju.edu.cn/problem_solving/images/c/cc/The_C_Programming_Language_%282nd_Edition_Ritchie_Kernighan%29.pdf
 ```
+<img src="/vagrant/Screenshot 2025-02-16 160017.png" alt="na">
